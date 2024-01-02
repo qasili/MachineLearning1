@@ -1,0 +1,208 @@
+﻿Birth Rate Bin,Country/Region,Ease of Business (clusters),Region,Birth Rate,Population Total
+Below 1.5%,Mauritius,Very Friendly,Africa,1.10%,1.3M
+1.5-3%,Seychelles,Friendly,Africa,1.90%,0.1M
+1.5-3%,Tunisia,Very Friendly,Africa,1.90%,10.8M
+1.5-3%,South Africa,Very Friendly,Africa,2.10%,52.3M
+1.5-3%,Libya,Low,Africa,2.10%,6.2M
+1.5-3%,Morocco,Friendly,Africa,2.30%,32.5M
+1.5-3%,Botswana,Friendly,Africa,2.40%,2.0M
+1.5-3%,Egypt,Moderate,Africa,2.40%,80.7M
+1.5-3%,Algeria,Low,Africa,2.50%,38.5M
+1.5-3%,Namibia,Friendly,Africa,2.60%,2.3M
+1.5-3%,Lesotho,Moderate,Africa,2.80%,2.1M
+1.5-3%,Djibouti,Low,Africa,2.80%,0.9M
+Above 3%,Eswatini,Moderate,Africa,3.00%,1.2M
+Above 3%,Ghana,Friendly,Africa,3.10%,25.4M
+Above 3%,Zimbabwe,Low,Africa,3.20%,13.7M
+Above 3%,Gabon,Low,Africa,3.20%,1.6M
+Above 3%,Central African Republic,Low,Africa,3.40%,4.5M
+Above 3%,Mauritania,Low,Africa,3.40%,3.8M
+Above 3%,Sudan,Moderate,Africa,3.40%,37.2M
+Above 3%,Ethiopia,Moderate,Africa,3.40%,91.7M
+Above 3%,Madagascar,Moderate,Africa,3.50%,22.3M
+Above 3%,Sao Tome and Principe,Low,Africa,3.50%,0.2M
+Above 3%,Equatorial Guinea,Low,Africa,3.60%,0.7M
+Above 3%,Liberia,Low,Africa,3.60%,4.2M
+Above 3%,Comoros,Low,Africa,3.60%,0.7M
+Above 3%,Kenya,Moderate,Africa,3.60%,43.2M
+Above 3%,Rwanda,Friendly,Africa,3.60%,11.5M
+Above 3%,Sierra Leone,Moderate,Africa,3.70%,6.0M
+Above 3%,Cote d'Ivoire,Low,Africa,3.70%,19.8M
+Above 3%,South Sudan,Low,Africa,3.70%,10.8M
+Above 3%,Guinea,Low,Africa,3.70%,11.5M
+Above 3%,Togo,Low,Africa,3.70%,6.6M
+Above 3%,Benin,Low,Africa,3.70%,10.1M
+Above 3%,Eritrea,Low,Africa,3.70%,6.1M
+Above 3%,Guinea-Bissau,Low,Africa,3.80%,1.7M
+Above 3%,Cameroon,Low,Africa,3.80%,21.7M
+Above 3%,Congo (Brazzaville),Low,Africa,3.80%,4.3M
+Above 3%,Senegal,Low,Africa,3.80%,13.7M
+Above 3%,Mozambique,Moderate,Africa,3.90%,25.2M
+Above 3%,Malawi,Low,Africa,4.00%,15.9M
+Above 3%,Tanzania,Moderate,Africa,4.00%,47.8M
+Above 3%,Burkina Faso,Low,Africa,4.10%,16.5M
+Above 3%,Nigeria,Moderate,Africa,4.20%,168.8M
+Above 3%,Congo (Kinshasa),Low,Africa,4.30%,65.7M
+Above 3%,Zambia,Friendly,Africa,4.30%,14.1M
+Above 3%,"Gambia, The",Low,Africa,4.30%,1.8M
+Above 3%,Somalia,Not Clustered,Africa,4.40%,10.2M
+Above 3%,Uganda,Moderate,Africa,4.40%,36.3M
+Above 3%,Angola,Low,Africa,4.50%,20.8M
+Above 3%,Burundi,Low,Africa,4.50%,9.8M
+Above 3%,Chad,Low,Africa,4.60%,12.4M
+Above 3%,Mali,Low,Africa,4.70%,14.9M
+Above 3%,Niger,Low,Africa,5.00%,17.2M
+Below 1.5%,Japan,Very Friendly,Asia,0.80%,127.6M
+Below 1.5%,Thailand,Very Friendly,Asia,1.00%,66.8M
+Below 1.5%,Macao SAR,Not Clustered,Asia,1.00%,0.6M
+Below 1.5%,South Korea,Very Friendly,Asia,1.00%,50.0M
+Below 1.5%,Singapore,Very Friendly,Asia,1.00%,5.3M
+Below 1.5%,China,Friendly,Asia,1.20%,"1,350.7M"
+Below 1.5%,Hong Kong SAR,Very Friendly,Asia,1.30%,7.2M
+Below 1.5%,North Korea,Not Clustered,Asia,1.40%,24.8M
+Below 1.5%,Georgia,Very Friendly,Asia,1.40%,4.5M
+Below 1.5%,Armenia,Very Friendly,Asia,1.40%,3.0M
+1.5-3%,Vietnam,Friendly,Asia,1.60%,88.8M
+1.5-3%,Brunei,Friendly,Asia,1.60%,0.4M
+1.5-3%,Myanmar,Low,Asia,1.70%,52.8M
+1.5-3%,Sri Lanka,Friendly,Asia,1.80%,20.3M
+1.5-3%,Malaysia,Very Friendly,Asia,1.80%,29.2M
+1.5-3%,Azerbaijan,Friendly,Asia,1.90%,9.3M
+1.5-3%,Indonesia,Moderate,Asia,1.90%,246.9M
+1.5-3%,Bhutan,Low,Asia,2.00%,0.7M
+1.5-3%,Bangladesh,Moderate,Asia,2.00%,154.7M
+1.5-3%,India,Moderate,Asia,2.10%,"1,236.7M"
+1.5-3%,Uzbekistan,Low,Asia,2.10%,29.8M
+1.5-3%,Turkmenistan,Not Clustered,Asia,2.20%,5.2M
+1.5-3%,Nepal,Moderate,Asia,2.20%,27.5M
+1.5-3%,Maldives,Friendly,Asia,2.20%,0.3M
+1.5-3%,Mongolia,Friendly,Asia,2.30%,2.8M
+1.5-3%,Kazakhstan,Friendly,Asia,2.30%,16.8M
+1.5-3%,Philippines,Moderate,Asia,2.50%,96.7M
+1.5-3%,Pakistan,Moderate,Asia,2.60%,179.2M
+1.5-3%,Cambodia,Moderate,Asia,2.60%,14.9M
+1.5-3%,Laos,Low,Asia,2.70%,6.6M
+1.5-3%,Kyrgyzstan,Friendly,Asia,2.80%,5.6M
+Above 3%,Tajikistan,Moderate,Asia,3.30%,8.0M
+Above 3%,Afghanistan,Low,Asia,3.50%,29.8M
+Above 3%,Timor-Leste,Low,Asia,3.60%,1.1M
+Above 3%,Isle of Man,Not Clustered,Europe,,0.1M
+Above 3%,Monaco,Not Clustered,Europe,,0.0M
+Below 1.5%,Germany,Very Friendly,Europe,0.80%,80.4M
+Below 1.5%,Hungary,Friendly,Europe,0.90%,9.9M
+Below 1.5%,Serbia,Friendly,Europe,0.90%,7.2M
+Below 1.5%,Bosnia and Herzegovina,Moderate,Europe,0.90%,3.8M
+Below 1.5%,Portugal,Very Friendly,Europe,0.90%,10.5M
+Below 1.5%,Greece,Friendly,Europe,0.90%,11.1M
+Below 1.5%,Austria,Very Friendly,Europe,0.90%,8.4M
+Below 1.5%,Italy,Friendly,Europe,0.90%,59.5M
+Below 1.5%,Andorra,Not Clustered,Europe,1.00%,0.1M
+Below 1.5%,San Marino,Friendly,Europe,1.00%,0.0M
+Below 1.5%,Lithuania,Very Friendly,Europe,1.00%,3.0M
+Below 1.5%,Latvia,Very Friendly,Europe,1.00%,2.0M
+Below 1.5%,Romania,Friendly,Europe,1.00%,20.1M
+Below 1.5%,Bulgaria,Friendly,Europe,1.00%,7.3M
+Below 1.5%,Slovakia,Very Friendly,Europe,1.00%,5.4M
+Below 1.5%,Poland,Very Friendly,Europe,1.00%,38.5M
+Below 1.5%,Croatia,Friendly,Europe,1.00%,4.3M
+Below 1.5%,Czechia,Friendly,Europe,1.00%,10.5M
+Below 1.5%,Denmark,Very Friendly,Europe,1.00%,5.6M
+Below 1.5%,Malta,Friendly,Europe,1.00%,0.4M
+Below 1.5%,Liechtenstein,Not Clustered,Europe,1.00%,0.0M
+Below 1.5%,Spain,Very Friendly,Europe,1.00%,46.8M
+Below 1.5%,Switzerland,Very Friendly,Europe,1.00%,8.0M
+Below 1.5%,Ukraine,Moderate,Europe,1.10%,45.6M
+Below 1.5%,Estonia,Very Friendly,Europe,1.10%,1.3M
+Below 1.5%,North Macedonia,Very Friendly,Europe,1.10%,2.1M
+Below 1.5%,Slovenia,Very Friendly,Europe,1.10%,2.1M
+Below 1.5%,Belgium,Very Friendly,Europe,1.10%,11.1M
+Below 1.5%,Finland,Very Friendly,Europe,1.10%,5.4M
+Below 1.5%,Netherlands,Very Friendly,Europe,1.10%,16.8M
+Below 1.5%,Luxembourg,Friendly,Europe,1.10%,0.5M
+Below 1.5%,Moldova,Friendly,Europe,1.20%,3.6M
+Below 1.5%,Belarus,Friendly,Europe,1.20%,9.5M
+Below 1.5%,Montenegro,Very Friendly,Europe,1.20%,0.6M
+Below 1.5%,Cyprus,Very Friendly,Europe,1.20%,1.1M
+Below 1.5%,Norway,Very Friendly,Europe,1.20%,5.0M
+Below 1.5%,Sweden,Very Friendly,Europe,1.20%,9.5M
+Below 1.5%,Russia,Moderate,Europe,1.30%,143.2M
+Below 1.5%,Albania,Friendly,Europe,1.30%,2.8M
+Below 1.5%,France,Very Friendly,Europe,1.30%,65.7M
+Below 1.5%,United Kingdom,Very Friendly,Europe,1.30%,63.7M
+Below 1.5%,Faroe Islands,Not Clustered,Europe,1.30%,0.0M
+Below 1.5%,Iceland,Very Friendly,Europe,1.40%,0.3M
+1.5-3%,Ireland,Very Friendly,Europe,1.60%,4.6M
+1.5-3%,Türkiye,Friendly,Europe,1.70%,74.0M
+1.5-3%,Kosovo,Friendly,Europe,1.80%,1.8M
+Below 1.5%,Qatar,Very Friendly,Middle East,1.10%,2.1M
+Below 1.5%,Lebanon,Moderate,Middle East,1.30%,4.4M
+1.5-3%,United Arab Emirates,Very Friendly,Middle East,1.50%,9.2M
+1.5-3%,Bahrain,Very Friendly,Middle East,1.60%,1.3M
+1.5-3%,Iran,Low,Middle East,1.90%,76.4M
+1.5-3%,Saudi Arabia,Very Friendly,Middle East,2.00%,28.3M
+1.5-3%,Kuwait,Moderate,Middle East,2.10%,3.3M
+1.5-3%,Oman,Very Friendly,Middle East,2.10%,3.3M
+1.5-3%,Israel,Very Friendly,Middle East,2.20%,7.9M
+1.5-3%,Syria,Low,Middle East,2.40%,22.4M
+1.5-3%,Jordan,Moderate,Middle East,2.80%,6.3M
+Above 3%,Yemen,Not Clustered,Middle East,3.10%,23.9M
+Above 3%,Iraq,Low,Middle East,3.10%,32.6M
+Above 3%,American Samoa,Not Clustered,Oceania,,0.1M
+Above 3%,Marshall Islands,Moderate,Oceania,,0.1M
+Below 1.5%,New Zealand,Very Friendly,Oceania,1.40%,4.4M
+Below 1.5%,Australia,Very Friendly,Oceania,1.40%,22.7M
+1.5-3%,New Caledonia,Not Clustered,Oceania,1.60%,0.3M
+1.5-3%,French Polynesia,Not Clustered,Oceania,1.70%,0.3M
+1.5-3%,Guam,Not Clustered,Oceania,1.70%,0.2M
+1.5-3%,Fiji Islands,Friendly,Oceania,2.10%,0.9M
+1.5-3%,Kiribati,Moderate,Oceania,2.30%,0.1M
+1.5-3%,"Micronesia, Fed. Sts.",Low,Oceania,2.40%,0.1M
+1.5-3%,Tonga,Friendly,Oceania,2.60%,0.1M
+1.5-3%,Vanuatu,Friendly,Oceania,2.70%,0.2M
+1.5-3%,Samoa,Friendly,Oceania,2.70%,0.2M
+1.5-3%,Papua New Guinea,Moderate,Oceania,2.90%,7.2M
+Above 3%,Solomon Islands,Friendly,Oceania,3.10%,0.5M
+Above 3%,Sint Maarten (Dutch part),Not Clustered,The Americas,,0.0M
+Above 3%,Turks and Caicos Islands,Not Clustered,The Americas,,0.0M
+Above 3%,Dominica,Friendly,The Americas,,0.1M
+Above 3%,St. Kitts and Nevis,Friendly,The Americas,,0.1M
+Below 1.5%,Aruba,Not Clustered,The Americas,1.00%,0.1M
+Below 1.5%,Cuba,Not Clustered,The Americas,1.00%,11.3M
+Below 1.5%,Puerto Rico,Very Friendly,The Americas,1.10%,3.7M
+Below 1.5%,Canada,Very Friendly,The Americas,1.10%,34.8M
+Below 1.5%,Bermuda,Not Clustered,The Americas,1.20%,0.1M
+Below 1.5%,Cayman Islands,Not Clustered,The Americas,1.30%,0.1M
+Below 1.5%,Curacao,Not Clustered,The Americas,1.30%,0.2M
+Below 1.5%,Barbados,Friendly,The Americas,1.30%,0.3M
+Below 1.5%,United States,Very Friendly,The Americas,1.30%,313.9M
+Below 1.5%,Greenland,Not Clustered,The Americas,1.40%,0.1M
+Below 1.5%,Chile,Very Friendly,The Americas,1.40%,17.5M
+1.5-3%,Trinidad and Tobago,Friendly,The Americas,1.50%,1.3M
+1.5-3%,Brazil,Moderate,The Americas,1.50%,198.7M
+1.5-3%,Jamaica,Friendly,The Americas,1.50%,2.7M
+1.5-3%,"Bahamas, The",Friendly,The Americas,1.50%,0.4M
+1.5-3%,Uruguay,Friendly,The Americas,1.50%,3.4M
+1.5-3%,Costa Rica,Moderate,The Americas,1.50%,4.8M
+1.5-3%,St. Lucia,Friendly,The Americas,1.60%,0.2M
+1.5-3%,St. Martin (French part),Not Clustered,The Americas,1.60%,0.0M
+1.5-3%,St. Vincent and the Grenadines,Friendly,The Americas,1.70%,0.1M
+1.5-3%,Argentina,Moderate,The Americas,1.70%,41.1M
+1.5-3%,Antigua and Barbuda,Friendly,The Americas,1.70%,0.1M
+1.5-3%,Suriname,Low,The Americas,1.80%,0.5M
+1.5-3%,Grenada,Moderate,The Americas,1.90%,0.1M
+1.5-3%,Colombia,Very Friendly,The Americas,1.90%,47.7M
+1.5-3%,Mexico,Very Friendly,The Americas,1.90%,120.8M
+1.5-3%,El Salvador,Moderate,The Americas,2.00%,6.3M
+1.5-3%,Peru,Very Friendly,The Americas,2.00%,30.0M
+1.5-3%,Venezuela,Low,The Americas,2.00%,30.0M
+1.5-3%,Panama,Friendly,The Americas,2.00%,3.8M
+1.5-3%,Guyana,Moderate,The Americas,2.10%,0.8M
+1.5-3%,Dominican Republic,Moderate,The Americas,2.10%,10.3M
+1.5-3%,Ecuador,Moderate,The Americas,2.10%,15.5M
+1.5-3%,Nicaragua,Moderate,The Americas,2.30%,6.0M
+1.5-3%,Paraguay,Moderate,The Americas,2.40%,6.7M
+1.5-3%,Belize,Moderate,The Americas,2.40%,0.3M
+1.5-3%,Haiti,Low,The Americas,2.60%,10.2M
+1.5-3%,Bolivia,Low,The Americas,2.60%,10.5M
+1.5-3%,Honduras,Moderate,The Americas,2.60%,7.9M
+Above 3%,Guatemala,Friendly,The Americas,3.10%,15.1M
